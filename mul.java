@@ -1,3 +1,4 @@
+//Matrix multiplication
 public class mul {
     public static void main(String[] args) {
         int[][] a = { { 1, 1, 1 }, { 2, 2, 2 }, { 3, 3, 3 } };
